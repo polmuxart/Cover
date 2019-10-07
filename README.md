@@ -1,2 +1,0 @@
-# Cover
-Created with CodeSandbox
